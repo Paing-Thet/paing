@@ -1,0 +1,9 @@
+.profilePic {
+  border-radius: 50%;
+  border: 3px solid #333;
+  padding: 5px;
+}
+.profilePic:hover {
+  transform: rotateY(360deg);
+  transition: 2000ms;
+}
